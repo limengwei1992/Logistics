@@ -1,4 +1,4 @@
-package logistics.mlnx.com.logistics;
+package com.mlnx.logistics;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
